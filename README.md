@@ -1,4 +1,4 @@
 GhostScript0854
 ===============
 
-GhostScript for OpenVMS
+GhostScript for OpenVMS I64
